@@ -19,3 +19,6 @@
  
 - HW 5:
   - Sentiment Classification.
+  
+- Project:
+  - Analyze work from home trends in the post pandemic market.
